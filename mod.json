@@ -1,0 +1,8 @@
+{
+  "id": "states-at-once",
+  "name": "States at Once",
+  "author": "Magnum Mods",
+  "version": "1.0.0",
+  "loader": "0.31.0",
+  "priority": 0
+}
