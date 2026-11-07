@@ -2,7 +2,7 @@
   "$schema": "https://rq-modding.github.io/rq-modding-docs/schemas/mod.schema.json",
   "id": "states-at-once",
   "name": "States at Once",
-  "author": "Magnum Mods",
+  "author": "Moru Zerinho6",
   "version": "1.0.0",
   "loader": "0.31.0",
   "priority": 0
