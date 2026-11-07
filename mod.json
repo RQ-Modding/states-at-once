@@ -1,4 +1,5 @@
 {
+  "$schema": "https://rq-modding.github.io/rq-modding-docs/schemas/mod.schema.json",
   "id": "states-at-once",
   "name": "States at Once",
   "author": "Magnum Mods",
