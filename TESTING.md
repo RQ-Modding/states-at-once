@@ -19,6 +19,6 @@ No buttons and no `rq.agent.control` ids. Do not invent controls for it.
 
 Without the mod (remove it from the Mods copy), stun replaces poison and ▼ replaces ▲.
 
-## Test Lab
+## Tested in the game
 
-`agent-lab.ps1 run states`: all of the above through real skills, with shots to check by eye.
+The Test Lab's scenario `states`: all of the above through real skills, with shots to check by eye.
